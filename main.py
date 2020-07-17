@@ -1,7 +1,7 @@
-from calc.add import add
-from calc.subtraction import subtraction
-from calc.divide import divide
-from calc.multiply import multiply
+from HW6.add import add
+from HW6.subtraction import subtraction
+from HW6.divide import divide
+from HW6.multiply import multiply
 
 if __name__ == "__main__":
     while True:
